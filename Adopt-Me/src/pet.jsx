@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 
 const Pet = ({
 	name = "default",
-	animal = "cat",
+	animal = "cat", 
 	breed = "na",
 	images = "No Image Found",
 	location = "NA",
